@@ -1,2 +1,2 @@
 # Separar.sh-
-Este scrip de bash te ayudara a separa archivos nombre y extencion escrito en Nano 
+Este programa escrito en Nano te ayudara a separa archivos y por nombre e incluso extencion en tan solo cuestion de segundos, solo ejecutalo con un scrip 
